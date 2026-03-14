@@ -3,7 +3,7 @@
 Blinkit Retail Analytics Dashboard
 Project Overview
 
-This project presents a retail analytics dashboard created using Microsoft Power BI Desktop to analyze sales, product demand, pricing patterns, and delivery performance of the Blinkit quick-commerce platform. The dashboard converts raw operational data into interactive visual insights that help understand customer ordering trends and business performance.
+This project presents a retail analytics dashboard created using Microsoft Power BI Desktop to analyze sales, product demand, pricing patterns, and delivery performance of the Blinkit quick-commerce platform. The dashboard converts raw operational data into interactive visual insights that help understand customer ordering trends and business performance. 
 
 Problem Statement
 
